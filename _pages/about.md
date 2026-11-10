@@ -39,6 +39,13 @@ redirect_from:
 - 构建干预修复几何与证据归档机制，以指纹距离和支持集重叠度检索历史修复，并按置信度分配试错预算。
 - 在 9 个异构骨干、27 个留一 campaign 和 216 个迁移决策上验证，修复效果符号预测准确率达 83%，GPU 开销降低 69%。
 
+### AWARE: Action Weak-spot Assessment before Robotic-world-model Execution
+
+**ICLR 2027 投稿**
+
+- 提出预部署动作弱点评估方法，在不访问未来环境反馈的情况下，识别可能导致世界模型动作响应偏差的方向。
+- 在 CALVIN、RoboCasa 等基准上，AWARE 比同预算随机选择更有效地发现动作响应失配，为部署前诊断提供依据。
+
 ## 实习经历
 
 ### 北京智源研究院
