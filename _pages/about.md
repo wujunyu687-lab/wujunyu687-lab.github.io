@@ -41,7 +41,7 @@ redirect_from:
 
 ### AWARE: Action Weak-spot Assessment before Robotic-world-model Execution
 
-**ICLR 2027 · Under review**
+**Under review**
 
 - 提出预部署动作弱点评估方法，在不访问未来环境反馈的情况下，识别可能导致世界模型动作响应偏差的方向。
 - 在 CALVIN、RoboCasa 等基准上，AWARE 比同预算随机选择更有效地发现动作响应失配，为部署前诊断提供依据。
