@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "吴俊羽 | 个人主页"
+title                    : "Junyu Wu | Personal Website"
 title_separator          : "-"
-name                     : &name "吴俊羽"
-description              : &description "吴俊羽的个人主页，关注具身智能与世界模型。"
+name                     : &name "Junyu Wu"
+description              : &description "Junyu Wu's personal website, focused on embodied intelligence and world models."
 url                      : "https://wujunyu687-lab.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "wujunyu687-lab/wujunyu687-lab.github.io"
 author:
   # Biographic information
   avatar           : "https://github.com/wujunyu687-lab.png"
-  name             : "吴俊羽"
+  name             : "Junyu Wu"
   pronouns         : # example: "she/her"  
-  bio              : "具身智能与世界模型研究"
+  bio              : "Embodied intelligence and world models"
   location         :
   employer         :
   uri              : # URL

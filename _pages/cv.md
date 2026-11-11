@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "简历"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
 
-个人资料正在整理中。
+My CV is being prepared.
 
-目前公开的研究兴趣包括具身智能与世界模型。后续会在这里补充教育经历、项目经历、论文和其他学术信息。
+My current public research interests include embodied intelligence and world models. Education, projects, publications, and additional academic information will be added here over time.

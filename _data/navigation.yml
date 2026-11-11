@@ -8,10 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "首页"
+  - title: "Home"
     url: /
 
-  - title: "简历"
+  - title: "CV"
     url: /cv/
 
   - title: "GitHub"
